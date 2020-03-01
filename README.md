@@ -1,9 +1,11 @@
 # Jedi Task Joy
-This is an app which going to help developers get more joy from doing things and forget procrastination
+This is an app which going to help developers get more joy from doing things and forget procrastination. 
+
 
 There is a studies of neuroscience behind this method. Basically you can do it on paper but it's not easy to follow. 
 The idea in short is that you don’t need to be crazy disciplined in order getting things done! 
-# You just need to match what you like with what you’re doing. 
+# You just need to match what you like with what need to be done. 
+I have tested this togethter with my technical friends, and we are sure this can help to get most of your life!
 # Steps: 
 1. You commit your "reward bank" (among rewards is something you enjoy or get most dephomine from: music, football match, sweets, socail media, money for new purchase etc.)
 2. Create the list of tasks which are either important or seem big, or you think you don't really like this and want to pospone...
