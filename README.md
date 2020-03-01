@@ -2,7 +2,7 @@
 This is an app which going to help developers get more joy from doing things and forget procrastination. 
 
 Here is a link to first prototype of this tool in Figma: 
-https://www.figma.com/proto/bY3fd3SpE3NNgBHJ3DPejJ/Jedi-Task-Joy?node-id=0%3A78&scaling=scale-down
+https://www.figma.com/proto/bY3fd3SpE3NNgBHJ3DPejJ/Jedi-Task-Joy?node-id=6%3A453&scaling=scale-down
 
 There is a studies of neuroscience behind this method. Basically you can do it on paper but it's not easy to follow. 
 The idea in short is that you don’t need to be crazy disciplined in order getting things done! 
